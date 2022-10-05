@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521599696185",
+    "project_id": "coopdemo2-2b8e7",
+    "storage_bucket": "coopdemo2-2b8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521599696185:android:a860d8a3894e4a47b47ce8",
+        "android_client_info": {
+          "package_name": "com.example.coopdemo2_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521599696185-novu31f2eoe9q1kcu05dg2n6tu6do7df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coopdemo2_firebase",
+            "certificate_hash": "7d64ac190484a95d62e9c92b04d12d684bbf0028"
+          }
+        },
+        {
+          "client_id": "521599696185-0bhucc5r8avdvjvhsgbo77lnnrhf2qa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjmzrT0ic9qjQ95CqNn2oh2elycMYBDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521599696185-0bhucc5r8avdvjvhsgbo77lnnrhf2qa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
